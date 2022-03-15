@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
      child: ListView(
       children: [
       
-       _card('home_animated', 'Design One'),
+       _card('home_destinations', 'Destinations'),
 
       ],
      ),
