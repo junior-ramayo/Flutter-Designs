@@ -20,6 +20,8 @@ class _HomePageState extends State<HomePage> {
       
        _card('home_destinations', 'Destinations'),
 
+       _card('home_courses', 'Online Courses App'),
+
       ],
      ),
     )
