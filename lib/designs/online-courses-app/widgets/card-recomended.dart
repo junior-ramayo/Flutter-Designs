@@ -71,7 +71,7 @@ import 'package:flutter_designs/designs/online-courses-app/pages/details.dart';
          right: 0,
          bottom: 0,
          child: Image.asset(
-          'assets/images/img_saly10.png',
+          'assets/pngs/img_saly10.png',
           scale: 2.0,
          )
         )

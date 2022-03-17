@@ -56,7 +56,7 @@ import 'package:flutter/material.dart';
       alignment: Alignment.bottomRight,
       scale: 1.2,
       image: AssetImage(
-       'assets/images/img_saly36_detail.png',
+       'assets/pngs/img_saly36_detail.png',
       ),
      ),
     ),
@@ -113,7 +113,7 @@ import 'package:flutter/material.dart';
                       decoration: const BoxDecoration(
                         shape: BoxShape.circle,
                         image: DecorationImage(
-                          image: AssetImage('assets/images/img_user1.png')
+                          image: AssetImage('assets/pngs/img_user1.png')
                         ),
                       ),
                     ),
@@ -127,7 +127,7 @@ import 'package:flutter/material.dart';
                       decoration: const BoxDecoration(
                         shape: BoxShape.circle,
                         image: DecorationImage(
-                          image: AssetImage('assets/images/img_user1.png')
+                          image: AssetImage('assets/pngs/img_user1.png')
                         ),
                       ),
                     ),
@@ -143,7 +143,7 @@ import 'package:flutter/material.dart';
                      color: Colors.white,
                      image: DecorationImage(
                       image: AssetImage(
-                       'assets/images/img_user3.png'
+                       'assets/pngs/img_user3.png'
                       ),
                      ),
                     ),
@@ -160,7 +160,8 @@ import 'package:flutter/material.dart';
                      color: Colors.white,
                      image: DecorationImage(
                       image: AssetImage(
-                       'assets/images/img_user4.png'),
+                       'assets/pngs/img_user4.png'
+                      ),
                      ),
                     ),
                    ),
@@ -223,7 +224,7 @@ import 'package:flutter/material.dart';
                    Transform.translate(
                     offset: const Offset(0, -10),
                     child: Image.asset(
-                     'assets/images/img_saly20.png',
+                     'assets/pngs/img_saly20.png',
                      height: 85,
                     ),
                    ),

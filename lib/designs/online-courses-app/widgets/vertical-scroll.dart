@@ -29,7 +29,7 @@ class VerticalScroll extends StatelessWidget {
                child: Transform.translate(
                  offset: const Offset(25, -39),
                  child: Image.asset(
-                   'assets/images/img_saly24.png',
+                   'assets/pngs/img_saly24.png',
                    height: 100
                  ),
                ),
