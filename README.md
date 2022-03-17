@@ -7,4 +7,4 @@
 <img src="./assets/images/destinations.jpeg" height="800" />
 
 ## 02.- Online Courses App
-<img src="./assets/images/online-courses.png" width="400" />
+<img src="./assets/images/online-courses.png" width="600" />
