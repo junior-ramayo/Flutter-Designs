@@ -11,6 +11,6 @@
 
 ## 03.- Gaming App
 <div style="float: right">
-<img src="./assets/images/home_gaming.gif" width="600" />
-<img src="./assets/images/trending.gif" width="600" />
+<img src="./assets/images/home_gaming.gif" height="500" />
+<img src="./assets/images/trending.gif" height="500" />
 </div>
