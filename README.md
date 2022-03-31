@@ -4,7 +4,7 @@
 ## Apps
 
 ## 01.- Destinations App
-<img src="./assets/images/destinations.jpeg" height="800" />
+<img src="./assets/images/destinations.jpeg" height="500" />
 
 ## 02.- Online Courses App
 <img src="./assets/images/online-courses.png" width="600" />
