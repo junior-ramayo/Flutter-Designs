@@ -14,13 +14,16 @@ class _HomePageState extends State<HomePage> {
    return Scaffold(
     appBar: _appBar(),
     body: Padding(
-     padding: const EdgeInsets.only(left: 15,right: 15, top: 70),
+     padding: const EdgeInsets.only(left: 15,right: 15, top: 40),
      child: ListView(
       children: [
       
        _card('home_destinations', 'Destinations'),
 
        _card('home_courses', 'Online Courses App'),
+
+       _card('home_gaming', 'Gaming App'),
+       
 
       ],
      ),
