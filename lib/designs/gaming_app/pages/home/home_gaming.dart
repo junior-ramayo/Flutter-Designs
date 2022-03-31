@@ -74,6 +74,7 @@ import 'package:google_fonts/google_fonts.dart';
      )
     );
    }
+   
 
    Widget title(){
     final size = MediaQuery.of(context).size;
